@@ -3,6 +3,7 @@
 
 # Allow tracked directories and files (whitelist)
 !.gitignore
+!README.md
 
 # agents directory
 !agents/
