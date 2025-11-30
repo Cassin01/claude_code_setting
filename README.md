@@ -1,5 +1,3 @@
-# SuperClaude
-
 My Claude Code configuration framework.
 
 ## Agents
