@@ -1,0 +1,27 @@
+# Ignore everything by default
+*
+
+# Allow tracked directories and files (whitelist)
+!.gitignore
+
+# agents directory
+!agents/
+!agents/CLAUDE.md
+!agents/README.md
+!agents/code-analyzer.md
+!agents/code-reviewer.md
+!agents/commit-message-generator.md
+!agents/pr-generator.md
+!agents/problem-analyzer-planner.md
+!agents/task-executor.md
+!agents/task-planner-implementer.md
+
+# commands directory
+!commands/
+!commands/m-analyze.md
+!commands/m-commit.md
+!commands/m-execute.md
+!commands/m-implement.md
+!commands/m-plan.md
+!commands/m-pr.md
+!commands/m-review.md
