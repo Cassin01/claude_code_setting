@@ -11,6 +11,7 @@ My Claude Code configuration framework.
 | task-executor | Execute multiple tasks sequentially |
 | commit-message-generator | Generate commit messages |
 | pr-generator | Generate pull requests |
+| legendary-game-designer | Game design support with 12 legendary designers' philosophies |
 
 ## Commands
 
