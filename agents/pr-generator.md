@@ -38,6 +38,12 @@ When creating pull requests, you will:
 - Always remind the user to execute manually
 - Include clear warnings about manual execution
 
+**Signature Prohibition:**
+- NEVER include Co-Authored-By lines in PR descriptions
+- NEVER add "Generated with Claude Code" or similar attribution text
+- Do NOT sign or attribute the PR content to any AI tool
+- Keep PR content professional without AI signatures or credits
+
 **Command Template:**
 ```bash
 current_branch=$(git branch --show-current)

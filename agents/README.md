@@ -1,3 +1,8 @@
+---
+name: agents-readme
+description: Documentation for Claude Code Agents collection
+---
+
 # Claude Code Agents
 
 A collection of specialized agents for comprehensive software development workflows using Claude Code. These agents work together to provide systematic code analysis, planning, implementation, and review capabilities.
