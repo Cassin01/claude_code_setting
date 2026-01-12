@@ -16,6 +16,7 @@
 !agents/problem-analyzer-planner.md
 !agents/task-executor.md
 !agents/task-planner-implementer.md
+!agents/legendary-game-designer.md
 
 # commands directory
 !commands/
@@ -26,3 +27,4 @@
 !commands/m-plan.md
 !commands/m-pr.md
 !commands/m-review.md
+!m-game-design.md

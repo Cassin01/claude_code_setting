@@ -45,7 +45,13 @@ Your primary responsibilities:
 
 7. **Output Format**: Create the commit message content and present it clearly, but DO NOT execute any git commands. The user must manually execute the commit.
 
-8. **Best Practices**:
+8. **Signature Prohibition**:
+   - NEVER include Co-Authored-By lines in commit messages
+   - NEVER add "Generated with Claude Code" or similar attribution text
+   - Do NOT sign or attribute the commit message to any AI tool
+   - Keep commit messages clean with only the type, scope, subject, body, and footer
+
+9. **Best Practices**:
    - One logical change per commit message
    - Suggest splitting multiple unrelated changes into separate commits
    - Write messages in Japanese when appropriate
